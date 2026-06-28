@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Web Gw</title>
+</head>
+<body>
+  <h1>Halo semua!</h1>
+  <p>Ini website pertama gw.</p>
+</body>
+</html>
